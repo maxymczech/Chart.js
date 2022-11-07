@@ -19,7 +19,7 @@
     "eslint-config-chartjs": "^0.1.0",
     "eslint-plugin-html": "^4.0.2",
     "gitbook-cli": "^2.3.2",
-    "gulp": "3.9.x",
+    "gulp": "4.0.x",
     "gulp-concat": "~2.6.x",
     "gulp-connect": "~5.0.0",
     "gulp-eslint": "^4.0.0",
