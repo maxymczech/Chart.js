@@ -21,7 +21,7 @@
     "gitbook-cli": "^2.3.2",
     "gulp": "3.9.x",
     "gulp-concat": "~2.6.x",
-    "gulp-connect": "~5.0.0",
+    "gulp-connect": "~5.7.0",
     "gulp-eslint": "^4.0.0",
     "gulp-file": "^0.3.0",
     "gulp-htmllint": "^0.0.15",
